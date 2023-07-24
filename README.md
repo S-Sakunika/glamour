@@ -1,1 +1,1 @@
-# glomour
+# glamour
